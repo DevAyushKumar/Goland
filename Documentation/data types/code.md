@@ -41,3 +41,6 @@ Floating point data:
 
 "Syntactic Sugar" in programming:
 -> A term to describe a feature in a language that let's you do smt more easily.
+-> Makes the langugage "sweeter" for human use 
+-> But dosen't add any new functionality that it didn't already have.
+
